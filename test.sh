@@ -1,2 +1,2 @@
-echo "it works"
+echo "it still works"
 exit
