@@ -1,3 +1,2 @@
-echo "it still works"
-ldjglkdfgjlsdfgjl
+echo "it works again"
 exit
