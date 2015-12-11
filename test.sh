@@ -6,4 +6,5 @@ echo "added to mnordsletten"
 echo "hey you"
 echo "again we go"
 echo "you are great"
+echo "good job man"
 exit
