@@ -1,3 +1,3 @@
 echo "it works again"
-echo "you"
+echo "hey you"
 exit
