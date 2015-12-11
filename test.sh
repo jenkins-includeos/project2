@@ -7,4 +7,5 @@ echo "hey you"
 echo "again we go"
 echo "you are great"
 echo "good job man"
+echo "if this works you are amazing"
 exit
