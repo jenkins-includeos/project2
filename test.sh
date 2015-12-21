@@ -12,4 +12,5 @@ echo "hey you"
 echo "could be grerat"
 echo "yoe"
 echo "hey"
+echo "new day"
 exit
