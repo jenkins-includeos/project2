@@ -10,4 +10,5 @@ echo "good job man"
 echo "if this works you are amazing"
 echo "hey you"
 echo "bla"
+echo "fda"
 exit
